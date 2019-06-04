@@ -1,28 +1,28 @@
 # App Demo
 
 
--Login Page
+1.Login Page
 -----------
 ![alt text](./demo/Screenshot_1559624116.png)
--All the issues you have
+2.All the issues you have
 ------------------------
 ![alt text](./demo/Screenshot_1559624151.png)
--Selecting the body location of your issue
+3.Selecting the body location of your issue
 ------------------------------------------
 ![alt text](./demo/Screenshot_1559624167.png)
--Keep track of your issue everyday
+4.Keep track of your issue everyday
 ----------------------------------
 ![alt text](./demo/Screenshot_1559624320.png)
--Doctor can see all the patients
+5.Doctor can see all the patients
 --------------------------------
 ![alt text](./demo/Screenshot_1559624418.png)
 ![alt text](./demo/Screenshot_1559624424.png)
--Login via QR code. You do not have to memorize your id
+6.Login via QR code. You do not have to memorize your id
 -------------------------------------------------------
 ![alt text](./demo/Screenshot_1559624433.png)
--Fully functional searching
+7.Fully functional searching
 ----------------------------
 ![alt text](./demo/Screenshot_1559624459.png)
--Doctor can comment on your issues by looking at your day by day post
+8.Doctor can comment on your issues by looking at your day by day post
 --------------------------------------------------------------------
 ![alt text](./demo/Screenshot_1559624496.png)
